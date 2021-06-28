@@ -1,4 +1,6 @@
-# EntAlignment
+## EntAlignment
+
+
 
 
 ## Requirements
@@ -6,4 +8,5 @@
  * Tensorflow 1.14
 
 
-##
+## Training
+ ```python '''
