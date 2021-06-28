@@ -1,6 +1,6 @@
 ## EntAlignment
 
-
+Source code and datasets for the paper "Dual Gated Graph Attention Networks with Dynamic Iterative Training for Cross-Lingual Entity Alignment".
 
 
 ## Requirements
@@ -9,4 +9,4 @@
 
 
 ## Training
- ```python '''
+ ```python main_train_DuGa.py'''
