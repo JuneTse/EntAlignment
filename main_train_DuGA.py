@@ -19,7 +19,7 @@ config={
     "emb_dim":200,
     "rel_dim":50,
     #train
-    "optimizer":tf.train.GradientDescentOptimizer, #tf.train.AdamOptimizer,
+    "optimizer":tf.train.GradientDescentOptimizer, 
     "lr":50,
     "iter":True
    }
@@ -59,7 +59,7 @@ fr_en={
     "emb_norm":True,
     "output_norm":True,
     #train
-    "optimizer":tf.train.AdamOptimizer,#tf.train.AdamOptimizer,#tf.train.GradientDescentOptimizer,
+    "optimizer":tf.train.AdamOptimizer,
     "lr":0.002,
     "iter":True
    }
@@ -79,7 +79,7 @@ ja_en={
     "emb_norm":True,
     "output_norm":True,
     #train
-    "optimizer":tf.train.AdamOptimizer,#tf.train.AdamOptimizer,#tf.train.GradientDescentOptimizer,
+    "optimizer":tf.train.AdamOptimizer,
     "lr":0.002,
     "iter":True
    }
