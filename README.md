@@ -9,4 +9,6 @@ Source code and datasets for the paper "Dual Gated Graph Attention Networks with
 
 
 ## Training
- ```python main_train_DuGa.py'''
+ ```
+ python main_train_DuGa.py
+ '''
